@@ -1,0 +1,39 @@
+_repo: Insidekick_32272
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+covers:
+- cover_type: archival
+  image_path: 32272-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bone, Jesse F. (Jesse Franklin)
+    aliases:
+    - Bone, Jesse Franklin
+    - Bone, J. F. (Jesse Franklin)
+    birthdate: 1916
+    deathdate: 2006
+    gutenberg_agent_id: '946'
+    url: http://www.gutenberg.org/2009/agents/946
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Insidekick
+url: http://www.gutenberg.org/ebooks/32272
