@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '946'
     url: http://www.gutenberg.org/2009/agents/946
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32272#Insidekick
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-05-06'
 gutenberg_type: Text
